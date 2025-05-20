@@ -8,7 +8,6 @@ FROM USER_USERS;
 SELECT * FROM USER_TABLES;
 
 -- 3. Describe the ORDERS table
--- Use this in SQL Commands or worksheet, one at a time
 DESC ORDERS;
 
 -- 4. Describe the PRODUCTLIST table
